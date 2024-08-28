@@ -19,7 +19,7 @@ Click below to **learn more** in a video:
 
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE
 
-## Navigation
+## Navigationsdfvdfbdsfb
 
 - [Project homepage 🐘](https://joinmastodon.org)
 - [Support the development via Patreon][patreon]
