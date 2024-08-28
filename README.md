@@ -13,7 +13,7 @@
 
 Mastodon is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, and video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub!)                 
 
-Click below to **learn more** in a video:             sfjiuhfg
+Click below to **learn more** in a video:             sfjiuhfg jhjbkdsfjbgjhsabd
 
 [![Screenshot](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif)][youtube_demo]
 
