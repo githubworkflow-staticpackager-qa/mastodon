@@ -19,7 +19,7 @@ Click below to **learn more** in a video:                sfjiuhfg jhjbkdsfjbgjhs
 
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE
 
-## Navigationsdfvdfbdsfb                                                kjnasdkjbasdfjbk
+## Navigationsdfvdfbdsfb             hjbasdfasdf                                                kjnasdkjbasdfjbk
 
 - [Project homepage 🐘](https://joinmastodon.org)
 - [Support the development via Patreon][patreon]
