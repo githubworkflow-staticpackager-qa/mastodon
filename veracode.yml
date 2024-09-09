@@ -40,7 +40,7 @@ veracode_static_scan:
   #Ruby Support
   actions_packager_image: janthony1986/scm-packaging:1.2.3
   ruby_version: '3.3.4'
-  bundle_version: '2.5.18'
+  bundle_version: '2.5.7'
   build_predependency_command: |
 
 veracode_sca_scan:
