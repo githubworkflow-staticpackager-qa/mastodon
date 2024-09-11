@@ -1,4 +1,4 @@
-<h1><picture>
+<h1><picture>                                                                                                        new test
   <source media="(prefers-color-scheme: dark)" srcset="./lib/assets/wordmark.dark.png?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="./lib/assets/wordmark.light.png?raw=true">
   <img alt="Mastodon" src="./lib/assets/wordmark.light.png?raw=true" height="34">
